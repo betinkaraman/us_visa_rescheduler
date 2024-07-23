@@ -24,7 +24,7 @@ pip install sendgrid==6.9.7
 ## How to use
 - Initial setup!
 - Edit information [config.ini.example file]. Then remove the ".example" from file name.
-- If webdriver can't find chrome driver, you can download it from [https://developer.chrome.com/docs/chromedriver/downloads] and extract it to repo folder. Just add driver path to config.json file.
+- If webdriver can't find chrome driver, you can download it from [https://developer.chrome.com/docs/chromedriver/downloads] and extract it to repo folder. Just add driver path to config.json file (Chage to full path).
 - [Optional] Edit your push notification accounts information [config.ini.example file].
 - Run visa.py file, using `py visa.py` or `python3 visa.py`
 
