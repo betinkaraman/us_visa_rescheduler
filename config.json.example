@@ -1,0 +1,24 @@
+{
+    "PERSONAL_INFO": {
+        "username": "@gmail.com",
+        "password": "",
+        "schedule_id": "",
+        "period_start": "YYYY-MM-DD",
+        "period_end": "YYYY-MM-DD",
+        "your_embassy": "en-tr-ankara"
+    },
+    "NOTIFICATION": {
+        "pushover_token": "",
+        "pushover_user": ""
+    },
+    "TIME": {
+        "retry_time_l_bound": "300",
+        "retry_time_u_bound": "420",
+        "work_limit_time": "4",
+        "work_cooldown_time": "0.5",
+        "ban_cooldown_time": "0.01"
+    },
+    "CHROMEDRIVER": {
+        "driver_path": "/chromedriver.exe"
+    }
+}
